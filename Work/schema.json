@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "The Embroidery Atelier",
+  "url": "https://theembroideryatelier.com",
+  "logo": "https://theembroideryatelier.com/images/logo.png",
+  "description": "Luxury Made-to-Order Embroidered Women's Dresses",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Fashion Street",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10001",
+    "addressCountry": "USA"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1 (555) 123-4567",
+    "contactType": "sales",
+    "email": "info@theembroideryatelier.com",
+    "areaServed": "Global"
+  },
+  "sameAs": [
+    "https://instagram.com/theembroideryatelier",
+    "https://pinterest.com/theembroideryatelier",
+    "https://facebook.com/theembroideryatelier"
+  ]
+}
